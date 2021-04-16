@@ -2,7 +2,7 @@
 
 - ✨ I'm an enthusiast backend developer from :fr: Nantes - France
 - :zap: I'm currently working on [PBRaiders](https://github.com/pbraiders)
-- :closed_book: I'm currently learning Symphony and others PHP frameworks, I'm flexible :bowtie:
+- :closed_book: I'm currently learning Symfony and others PHP frameworks, I'm flexible :bowtie:
 - 👯 I’m looking to collaborate on PHP open source projects
 - 📫 How to reach me: 
   - [linkedin](https://www.linkedin.com/in/olivierjullien/)
