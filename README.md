@@ -8,3 +8,4 @@
 
 ![Olivier's github stats](https://github-readme-stats.vercel.app/api?username=ojullien&show_icons=true&count_private=true)
         
+![Metrics](https://github.com/ojullien/ojullien/blob/main/github-metrics.svg)
